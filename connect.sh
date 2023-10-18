@@ -10,4 +10,4 @@ fi
 
 echo "Connecting to the server..."
 
-ssh user@$IP -p $PORT
+ssh root@$IP -p $PORT
