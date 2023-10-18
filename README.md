@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Connect to VPS linux in terminal</title>
 </head>
 <body>
 
@@ -18,12 +17,17 @@
 
 <br>
 
-<h5>برای اجرا ابتدا با کد زیر اسکریپت را دانلود کنید</h5>
+<h5>برای اجرا ابتدا اسکریپت را دانلود کنید</h5>
 
 <pre><code>git clone https://github.com/funnylearn-ir/Connect-to-VPS</code></pre>
 
-<p>سپس با کد زیر ابزار را اجرا کنید:</p>
-<pre><code>bash Connect-to-VPS/connect.sh</code></pre>
+<p>سپس وارد پوشه اسکریپت شوید:</p>
+<pre><code>cd Connect-to-VPS</code></pre>
+
+<p>و ابزار را اجرا کنید:</p>
+
+<pre><code>bash connect.sh</code></pre>
+
 
 <p><a href="https://t.me/Funny_learn"> کانال ما را در تلگرام دنبال کنید : t.me/Funny_learn</a></p>
 
