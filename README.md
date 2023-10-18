@@ -25,5 +25,7 @@
 <p>سپس با کد زیر ابزار را اجرا کنید:</p>
 <pre><code>bash Connect-to-VPS/connect.sh</code></pre>
 
+<p><a href="https://t.me/Funny_learn"> کانال ما را در تلگرام دنبال کنید : t.me/Funny_learn</a></p>
+
 </body>
 </html>
